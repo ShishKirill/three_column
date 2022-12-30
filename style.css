@@ -109,8 +109,12 @@ p {
     text-decoration:none;
     margin: 0;
     padding: 0;
-    font-size: 10px;
-    color: hsl(228, 45%, 44%);
+    font-size: 11px;
+    color: hsl(179, 100%, 13%);
+}
+
+.attribution a:hover {
+    color:hsl(179, 99%, 28%)
 }
 
 @media (min-width: 820px) {
